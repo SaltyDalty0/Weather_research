@@ -1,2 +1,2 @@
 # Weather_research
-Collection of scripts used for data acquisition of BH PIRE data analysis
+Collection of scripts used for data acquisition and analysis for BH PIRE Project.
